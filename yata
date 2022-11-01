@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/8a75ff3a414d6b7d759f4fef85fe1bdc.png",LATINA HD
+http://streamgo.vip:8008/ETELIO/enVGNgzc3WTD/148683
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r0.png",11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oh.png",13-Sinart
