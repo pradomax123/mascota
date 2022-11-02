@@ -51,6 +51,8 @@ http://190.83.119.67:8000/play/a0u5/index.m3u8
 http://190.83.119.67:8000/play/a0tc/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png",CARTOON NT HD
 http://190.83.119.67:8000/play/a0op/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.skytvpluzz.online:8000/images/338608dbfa0b80564bd882b6911ecda9.png",Cartoon Network HD
+http://streamgo.vip:8008/ETELIO/enVGNgzc3WTD/160123
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pa.png",Cartoonito
 http://190.83.119.67:8000/play/a0pa/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ob.png",Discovery Kids HD
